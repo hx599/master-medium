@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Read(//c/Users/HX/AppData/Local/Programs/**)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Bash(conda info *)",
+      "Bash(D:/anaconda/python.exe *)",
+      "Bash(where python *)",
+      "Bash(/d/Anaconda/python.exe --version)",
+      "Bash(/d/Anaconda/python.exe *)",
+      "Bash(python3 *)",
+      "Bash(/c/Users/HX/anaconda3/python.exe *)",
+      "Bash(D:/anaconda/envs/HSI/python.exe *)",
+      "mcp__doc-ops__read_document",
+      "Bash(/d/anaconda/python.exe *)",
+      "Bash(node *)"
+    ]
+  }
+}

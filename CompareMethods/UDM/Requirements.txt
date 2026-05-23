@@ -1,0 +1,10 @@
+python
+numpy
+scipy
+h5py
+pytorch
+fvcore
+einops
+scikit-learn
+termcolor
+timm

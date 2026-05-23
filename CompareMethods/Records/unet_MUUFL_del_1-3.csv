@@ -1,0 +1,2 @@
+method,dataset,unseen_idx,oa_mean,oa_std,aa_mean,aa_std,kappa_mean,kappa_std,s_oa_mean,s_oa_std,u_oa_mean,u_oa_std,h_oa_mean,h_oa_std,s_aa_mean,s_aa_std,u_aa_mean,u_aa_std,h_aa_mean,h_aa_std,train_time_mean,train_time_std,test_time_mean,test_time_std
+unet,MUUFL,1;3,0.861479,0.003568,0.711873,0.011644,0.815083,0.004603,0.971827,0.004025,0.000000,0.000000,0.000000,0.000000,0.870068,0.014231,0.000000,0.000000,0.000000,0.000000,224.013555,1.730142,19.163783,0.083758

@@ -1,0 +1,2 @@
+method,dataset,unseen_idx,oa_mean,oa_std,aa_mean,aa_std,kappa_mean,kappa_std,s_oa_mean,s_oa_std,u_oa_mean,u_oa_std,h_oa_mean,h_oa_std,s_aa_mean,s_aa_std,u_aa_mean,u_aa_std,h_aa_mean,h_aa_std,train_time_mean,train_time_std,test_time_mean,test_time_std
+exvit,Houston,1;5,0.872314,0.004617,0.844758,0.005062,0.861829,0.005001,0.974721,0.005159,0.000000,0.000000,0.000000,0.000000,0.974721,0.005841,0.000000,0.000000,0.000000,0.000000,131.943205,3.852776,6.238094,0.520849

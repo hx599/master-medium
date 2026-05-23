@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CompareMethods/ExViT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/Fractional-Fourier-Image-Transformer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/MFT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/NCGLF2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/S2CrossMamba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/S2Mamba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/UDM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompareMethods/UNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HZSCM" vcs="Git" />
+  </component>
+</project>

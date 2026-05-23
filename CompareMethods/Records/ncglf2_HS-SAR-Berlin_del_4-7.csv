@@ -1,0 +1,2 @@
+method,dataset,unseen_idx,oa_mean,oa_std,aa_mean,aa_std,kappa_mean,kappa_std,s_oa_mean,s_oa_std,u_oa_mean,u_oa_std,h_oa_mean,h_oa_std,s_aa_mean,s_aa_std,u_aa_mean,u_aa_std,h_aa_mean,h_aa_std,train_time_mean,train_time_std,test_time_mean,test_time_std
+ncglf2,HS-SAR-Berlin,4;7,0.868961,0.007452,0.617578,0.009178,0.784178,0.011662,0.916483,0.007858,0.000124,0.000193,0.000249,0.000386,0.823362,0.012206,0.000225,0.000348,0.000449,0.000696,4248.613921,593.058491,261.235478,2.428502

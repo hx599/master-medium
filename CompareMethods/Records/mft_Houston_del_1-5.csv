@@ -1,0 +1,2 @@
+method,dataset,unseen_idx,oa_mean,oa_std,aa_mean,aa_std,kappa_mean,kappa_std,s_oa_mean,s_oa_std,u_oa_mean,u_oa_std,h_oa_mean,h_oa_std,s_aa_mean,s_aa_std,u_aa_mean,u_aa_std,h_aa_mean,h_aa_std,train_time_mean,train_time_std,test_time_mean,test_time_std
+mft,Houston,1;5,0.866857,0.005268,0.839172,0.005825,0.855919,0.005704,0.968625,0.005886,0.000000,0.000000,0.000000,0.000000,0.968276,0.006721,0.000000,0.000000,0.000000,0.000000,25.085752,0.165947,2.711297,0.033419
